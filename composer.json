@@ -1,0 +1,19 @@
+{
+    "name": "jsonlie/check-token",
+    "description": "check request token for laravel api project.",
+    "type": "package",
+    "autoload": {
+        "psr-4": {
+            "Jsonlie\\CheckToken\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "liqian",
+            "email": "390940063@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1"
+    }
+}
