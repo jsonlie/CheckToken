@@ -1,4 +1,6 @@
 <?php
+namespace Jsonlie\CheckToken;
+
 
 class CheckToken
 {
