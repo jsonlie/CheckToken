@@ -1,7 +1,13 @@
 {
     "name": "jsonlie/check-token",
     "description": "check request token for laravel api project.",
+    "license": "MIT",
     "type": "package",
+    "keywords": [
+        "jsonlie",
+        "check",
+        "token"
+    ],
     "autoload": {
         "psr-4": {
             "Jsonlie\\CheckToken\\": "src/"
