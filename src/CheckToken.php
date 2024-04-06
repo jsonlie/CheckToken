@@ -2,7 +2,7 @@
 namespace Jsonlie\CheckToken;
 
 
-class CheckToken
+class Token
 {
     //请求参数
     private $params = [];
